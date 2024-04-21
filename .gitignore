@@ -486,5 +486,5 @@ autograder_build/
 
 dist/
 pygerm.egg-info/
-test.py
+testing.py
 main.cpp
