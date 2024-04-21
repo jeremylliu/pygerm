@@ -42,7 +42,8 @@ PYBIND11_MODULE(pygerm, m) {
             .def("__str__", &RenderingConfig::to_string, "Returns a string representation of the RenderingConfig")
             .def_readwrite("x_resolution", &RenderingConfig::x_resolution, "The x resolution, or width, of the game window")
             .def_readwrite("y_resolution", &RenderingConfig::y_resolution, "The y resolution, or height, of the game window")
-            .def_readwrite("color", &RenderingConfig::clear_color, "The color to clear the screen with at the beginning of every frame");
+            .def_readwrite("color", &RenderingConfig::clear_color, "The color to clear the screen with at the beginning of every frame")
+            .def_readwrite("zoom_factor", &RenderingConfig::zoom_factor, "The zoom factor of the game window");
 
     py::class_<SDL_Color>(m, "Color")
             .def(py::init<>(), "Default Color Constructor")

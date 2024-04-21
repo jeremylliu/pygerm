@@ -32,8 +32,8 @@ GameEngine::GameEngine(py::kwargs kwargs) {
         }
     }
 
-    if (kwargs.contains("initial_scene")) {
-        if (py::isinstance<py::str>(kwargs["initial_scene"])) {
+    if (kwargs.contains("scene")) {
+        if (py::isinstance<py::str>(kwargs["scene"])) {
             // init scene information to begin game
 //    if (config.find("initial_scene") == config.end()) {
 //        std::cout << "error: initial_scene unspecified";
@@ -42,15 +42,15 @@ GameEngine::GameEngine(py::kwargs kwargs) {
 
 //            Scene::set_next_scene(kwargs["initial_scene"].cast<std::string>());
             throw std::runtime_error("Pathing to scene is currently not supported");
-        } else if (py::isinstance<Scene>(kwargs["initial_scene"])) {
-            scene = kwargs["initial_scene"].cast<Scene>();
+        } else if (py::isinstance<Scene>(kwargs["scene"])) {
+            scene = kwargs["scene"].cast<Scene>();
         } else {
-            throw std::invalid_argument("initial_scene must be a file path string or a Scene object");
+            throw std::invalid_argument("scene must be a file path string or a Scene object");
 
         }
     }
 
-    std::unordered_set<std::string> valid_keys = {"game_config", "rendering_config", "initial_scene"};
+    std::unordered_set<std::string> valid_keys = {"game_config", "rendering_config", "scene"};
     for (auto item : kwargs) {
         if (valid_keys.find(item.first.cast<std::string>()) == valid_keys.end()) {
             throw std::runtime_error("Invalid key: " + item.first.cast<std::string>());

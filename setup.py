@@ -127,7 +127,7 @@ class CMakeBuild(build_ext):
 # logic and declaration, and simpler if you include description/version in a file.
 setup(
     name="pygerm",
-    version="0.0.1",
+    version="0.0.2",
     author="Jeremy Liu",
     author_email="jeremylliu@umich.edu",
     description="A powerful, component based, 2D Python game engine",
@@ -137,4 +137,7 @@ setup(
     zip_safe=False,
     extras_require={"test": ["pytest>=6.0"]},
     python_requires=">=3.7",
+    install_requires=[
+        'cmake',  # Add CMake as a dependency
+    ],
 )
