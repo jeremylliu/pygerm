@@ -1,0 +1,12 @@
+{
+	"actors": [
+		{
+			"name": "debug_actor",
+			"components": {
+				"1": {
+					"type": "MissingComponentType"
+				}
+			}
+		}
+	]
+}

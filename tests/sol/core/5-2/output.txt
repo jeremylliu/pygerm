@@ -1,0 +1,88 @@
+The current frame is 0
+GetKeyDown(space) : false
+The current frame is 1
+GetKeyDown(space) : false
+The current frame is 2
+GetKeyDown(space) : false
+The current frame is 3
+GetKeyDown(space) : false
+The current frame is 4
+GetKeyDown(space) : false
+The current frame is 5
+GetKeyDown(space) : false
+The current frame is 6
+GetKeyDown(space) : true
+The current frame is 7
+GetKeyDown(space) : false
+The current frame is 8
+GetKeyDown(space) : false
+The current frame is 9
+GetKeyDown(space) : false
+The current frame is 10
+GetKeyDown(space) : false
+The current frame is 11
+GetKeyDown(space) : false
+The current frame is 12
+GetKeyDown(space) : false
+The current frame is 13
+GetKeyDown(space) : false
+The current frame is 14
+GetKeyDown(space) : false
+The current frame is 15
+GetKeyDown(space) : false
+The current frame is 16
+GetKeyDown(space) : false
+The current frame is 17
+GetKeyDown(space) : true
+The current frame is 18
+GetKeyDown(space) : false
+The current frame is 19
+GetKeyDown(space) : false
+The current frame is 20
+GetKeyDown(space) : false
+The current frame is 21
+GetKeyDown(space) : false
+The current frame is 22
+GetKeyDown(space) : false
+The current frame is 23
+GetKeyDown(space) : false
+The current frame is 24
+GetKeyDown(space) : false
+The current frame is 25
+GetKeyDown(space) : false
+The current frame is 26
+GetKeyDown(space) : false
+The current frame is 27
+GetKeyDown(space) : true
+The current frame is 28
+GetKeyDown(space) : false
+The current frame is 29
+GetKeyDown(space) : false
+The current frame is 30
+GetKeyDown(space) : false
+The current frame is 31
+GetKeyDown(space) : false
+The current frame is 32
+GetKeyDown(space) : false
+The current frame is 33
+GetKeyDown(space) : false
+The current frame is 34
+GetKeyDown(space) : false
+The current frame is 35
+GetKeyDown(space) : true
+The current frame is 36
+GetKeyDown(space) : false
+The current frame is 37
+GetKeyDown(space) : false
+The current frame is 38
+GetKeyDown(space) : false
+The current frame is 39
+GetKeyDown(space) : false
+The current frame is 40
+GetKeyDown(space) : false
+The current frame is 41
+GetKeyDown(space) : false
+The current frame is 42
+GetKeyDown(space) : false
+The current frame is 43
+GetKeyDown(space) : false

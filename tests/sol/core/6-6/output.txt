@@ -1,0 +1,6 @@
+[Frame 4] new enemy hp : 77
+[Frame 4] number of enemies in existence : 1
+[Frame 9] new enemy hp : 77
+[Frame 9] number of enemies in existence : 2
+[Frame 14] new enemy hp : 77
+[Frame 14] number of enemies in existence : 3

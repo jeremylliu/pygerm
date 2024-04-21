@@ -1,0 +1,21 @@
+[31mAmyChipley : resources/component_types/BuggyComponent.lua:5: attempt to call a nil value (field 'ThisFunctionDoesntExist')[0m
+The current frame is 0
+The current frame is 1
+The current frame is 2
+[31mAmyChipley : resources/component_types/BuggyComponent.lua:13: attempt to call a nil value (field 'ThisFunctionDoesntExist')[0m
+The current frame is 3
+[31mAmyChipley : resources/component_types/BuggyComponent.lua:13: attempt to call a nil value (field 'ThisFunctionDoesntExist')[0m
+The current frame is 4
+[31mAmyChipley : resources/component_types/BuggyComponent.lua:13: attempt to call a nil value (field 'ThisFunctionDoesntExist')[0m
+The current frame is 5
+[31mAmyChipley : resources/component_types/BuggyComponent.lua:13: attempt to call a nil value (field 'ThisFunctionDoesntExist')[0m
+[31mAmyChipley : resources/component_types/BuggyComponent.lua:19: attempt to call a nil value (field 'ThisFunctionDoesntExist')[0m
+The current frame is 6
+[31mAmyChipley : resources/component_types/BuggyComponent.lua:13: attempt to call a nil value (field 'ThisFunctionDoesntExist')[0m
+[31mAmyChipley : resources/component_types/BuggyComponent.lua:19: attempt to call a nil value (field 'ThisFunctionDoesntExist')[0m
+The current frame is 7
+[31mAmyChipley : resources/component_types/BuggyComponent.lua:13: attempt to call a nil value (field 'ThisFunctionDoesntExist')[0m
+[31mAmyChipley : resources/component_types/BuggyComponent.lua:19: attempt to call a nil value (field 'ThisFunctionDoesntExist')[0m
+The current frame is 8
+[31mAmyChipley : resources/component_types/BuggyComponent.lua:13: attempt to call a nil value (field 'ThisFunctionDoesntExist')[0m
+[31mAmyChipley : resources/component_types/BuggyComponent.lua:19: attempt to call a nil value (field 'ThisFunctionDoesntExist')[0m

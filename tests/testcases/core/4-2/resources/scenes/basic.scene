@@ -1,0 +1,12 @@
+{
+	"actors": [
+		{
+			"name": "FramePrinter",
+			"components": {
+				"1": {
+					"type": "PrintFrame"				
+				}
+			}
+		}
+	]
+}

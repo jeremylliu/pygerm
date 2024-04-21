@@ -1,0 +1,6 @@
+[Enemy] Enemy booting on frame 0 with hp 10
+[Enemy] Enemy Update on frame 0 with hp 10
+[Enemy] Enemy LateUpdate on frame 0 with hp 10
+[Enemy] Enemy Update on frame 1 with hp 10
+[Enemy] Enemy LateUpdate on frame 1 with hp 10
+[Enemy] Enemy Update on frame 2 with hp 10

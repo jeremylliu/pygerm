@@ -1,0 +1,18 @@
+{
+	"actors": [
+		{
+			"name": "enemy",
+			"template": "enemy",
+			"components": {
+				"inherited1": {
+					"type": "OutputMessage",
+					"message": "Oh, the inherited component has had its message customized. Very expressive."
+				},
+				"new_component1": {
+					"type": "OutputMessage",
+					"message": "But I've also added a brand-new component too!"
+				}
+			}
+		}
+	]
+}

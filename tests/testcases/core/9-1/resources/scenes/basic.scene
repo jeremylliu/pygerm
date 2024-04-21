@@ -1,0 +1,12 @@
+{
+	"actors": [
+		{
+			"name": "hud",
+			"components": {
+				"1": {
+					"type": "Hud"
+				}
+			}
+		}
+	]
+}

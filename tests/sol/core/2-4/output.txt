@@ -1,0 +1,5 @@
+ok, time to get a reference to Nikhil's actor.
+ok ok, now time to get his components.
+OK OK OK! Now to mess with them.
+I'm in your actor. Messing with your components!
+Default message let's goooo!

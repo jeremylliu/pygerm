@@ -1,0 +1,26 @@
+{
+	"actors": [
+		{
+			"name": "debug_actor",
+			"components": {
+				"1": {
+					"type": "ComponentA"
+				},
+				"2": {
+					"type": "ComponentB"
+				}
+			}
+		},
+		{
+			"name": "debug_actor",
+			"components": {
+				"1": {
+					"type": "ComponentB"
+				},
+				"2": {
+					"type": "ComponentA"
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"actors": [
+		{
+			"name": "actor1",
+			"components": {
+				"1": {
+					"type": "DestroyThenCheck"
+				}
+			}
+		},
+		{
+			"name": "actor2",
+			"components": {
+			}
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"actors": [
+		{
+			"name": "victory_background",
+			"components": {
+				"0": {
+					"type": "Transform",
+					"x": 1
+				},
+				"1": {
+					"type": "SpriteRenderer",
+					"image": "victory"
+				}
+			}
+		}
+	]
+}

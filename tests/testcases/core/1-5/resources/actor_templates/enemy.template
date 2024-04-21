@@ -1,0 +1,9 @@
+{
+    "name": "enemy",
+    "components": {
+        "inherited1": {
+            "type":"OutputMessage",
+            "message":"Oh, I'm just a standard template enemy."
+        }
+    }
+}

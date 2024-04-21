@@ -1,0 +1,12 @@
+{
+	"actors": [
+		{
+			"name": "ComponentAddingActor",
+			"components": {
+				"1": {
+					"type": "Manipulator"
+				}
+			}
+		}
+	]
+}

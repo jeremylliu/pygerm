@@ -1,0 +1,13 @@
+{
+	"actors": [
+		{
+			"name": "Quitter",
+			"components": {
+				"1": {
+					"type": "QuitAfterFrames",
+					"frames": 10
+				}
+			}
+		}
+	]
+}

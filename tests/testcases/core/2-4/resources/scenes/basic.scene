@@ -1,0 +1,25 @@
+{
+	"actors": [
+		{
+			"name": "Austin",
+			"components": {
+				"1": {
+					"type": "MessageOrganizer"
+				}
+			}
+		},
+		{
+			"name": "Nikhil",
+			"components": {
+				"1": {
+					"type": "OutputMessage",
+					"message": "Default message let's goooo!"
+				},
+				"2": {
+					"type": "OutputMessage",
+					"message": "Default message let's goooo!"
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"actors": [
+		{
+			"name": "victory_ui",
+			"components": {
+				"0": {
+					"type": "Transform"
+				},
+				"1": {
+					"type": "SpriteRenderer",
+					"image": "victory"
+				}
+			}
+		}
+	]
+}

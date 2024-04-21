@@ -1,0 +1,88 @@
+The current frame is 0
+GetKeyUp(space) : true
+The current frame is 1
+GetKeyUp(space) : false
+The current frame is 2
+GetKeyUp(space) : false
+The current frame is 3
+GetKeyUp(space) : false
+The current frame is 4
+GetKeyUp(space) : false
+The current frame is 5
+GetKeyUp(space) : false
+The current frame is 6
+GetKeyUp(space) : false
+The current frame is 7
+GetKeyUp(space) : false
+The current frame is 8
+GetKeyUp(space) : false
+The current frame is 9
+GetKeyUp(space) : true
+The current frame is 10
+GetKeyUp(space) : false
+The current frame is 11
+GetKeyUp(space) : false
+The current frame is 12
+GetKeyUp(space) : false
+The current frame is 13
+GetKeyUp(space) : false
+The current frame is 14
+GetKeyUp(space) : false
+The current frame is 15
+GetKeyUp(space) : false
+The current frame is 16
+GetKeyUp(space) : false
+The current frame is 17
+GetKeyUp(space) : false
+The current frame is 18
+GetKeyUp(space) : false
+The current frame is 19
+GetKeyUp(space) : false
+The current frame is 20
+GetKeyUp(space) : false
+The current frame is 21
+GetKeyUp(space) : true
+The current frame is 22
+GetKeyUp(space) : false
+The current frame is 23
+GetKeyUp(space) : false
+The current frame is 24
+GetKeyUp(space) : false
+The current frame is 25
+GetKeyUp(space) : false
+The current frame is 26
+GetKeyUp(space) : false
+The current frame is 27
+GetKeyUp(space) : false
+The current frame is 28
+GetKeyUp(space) : false
+The current frame is 29
+GetKeyUp(space) : false
+The current frame is 30
+GetKeyUp(space) : true
+The current frame is 31
+GetKeyUp(space) : false
+The current frame is 32
+GetKeyUp(space) : false
+The current frame is 33
+GetKeyUp(space) : false
+The current frame is 34
+GetKeyUp(space) : false
+The current frame is 35
+GetKeyUp(space) : false
+The current frame is 36
+GetKeyUp(space) : false
+The current frame is 37
+GetKeyUp(space) : false
+The current frame is 38
+GetKeyUp(space) : false
+The current frame is 39
+GetKeyUp(space) : true
+The current frame is 40
+GetKeyUp(space) : false
+The current frame is 41
+GetKeyUp(space) : false
+The current frame is 42
+GetKeyUp(space) : false
+The current frame is 43
+GetKeyUp(space) : false

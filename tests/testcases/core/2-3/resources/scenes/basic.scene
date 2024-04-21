@@ -1,0 +1,27 @@
+{
+	"actors": [
+		{
+			"name": "Austin",
+			"components": {
+				"1": {
+					"type": "MessageOrganizer"
+				},
+				"2": {
+					"type": "OutputMessage",
+					"message": "1 Mmmmm..."
+				},
+				"3": {
+					"type": "DoMath"
+				},
+				"4": {
+					"type": "OutputMessage",
+					"message": "3 Mmmmm..."
+				},
+				"5": {
+					"type": "OutputMessage",
+					"message": "4 Mmmmm..."
+				}
+			}
+		}
+	]
+}

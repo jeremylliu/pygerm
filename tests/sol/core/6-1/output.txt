@@ -1,0 +1,2 @@
+Hi, I'm the manipulator component. I've just shut off the LifecycleTester so it won't run.
+Ok! Bye!

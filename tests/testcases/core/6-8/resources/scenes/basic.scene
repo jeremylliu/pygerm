@@ -1,0 +1,12 @@
+{
+	"actors": [
+		{
+			"name": "actor1",
+			"components": {
+				"1": {
+					"type": "SpawnThenDestroy"
+				}
+			}
+		}
+	]
+}

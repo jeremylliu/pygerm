@@ -1,0 +1,12 @@
+{
+	"actors": [
+		{
+			"name": "EnemyActor",
+			"components": {
+				"1": {
+					"type": "Enemy"
+				}
+			}
+		}
+	]
+}

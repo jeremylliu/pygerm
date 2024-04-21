@@ -1,0 +1,13 @@
+{
+	"actors": [
+		{
+			"name": "EnemySpawner",
+			"components": {
+				"1": {
+					"type": "ActorSpawner",
+					"template_to_spawn": "Enemy"
+				}
+			}
+		}
+	]
+}

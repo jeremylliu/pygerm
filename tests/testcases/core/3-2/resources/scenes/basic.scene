@@ -1,0 +1,12 @@
+{
+	"actors": [
+		{
+			"name": "AmyChipley",
+			"components": {
+				"1": {
+					"type": "BuggyComponent"				
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"name": "enemy_actor",
+	"components": {
+		"1": {
+			"type": "Enemy"
+		}
+	}
+}

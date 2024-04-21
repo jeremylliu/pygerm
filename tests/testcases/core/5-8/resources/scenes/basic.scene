@@ -1,0 +1,12 @@
+{
+	"actors": [
+		{
+			"name": "MouseCheckerActor",
+			"components": {
+				"1": {
+					"type": "MouseChecker"				
+				}
+			}
+		}
+	]
+}

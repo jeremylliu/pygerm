@@ -1,0 +1,15 @@
+{
+	"actors": [
+		{
+			"name": "debug_actor",
+			"components": {
+				"1": {
+					"type": "OutputMessage"
+				},
+				"2": {
+					"type": "OutputMessage"
+				}
+			}
+		}
+	]
+}

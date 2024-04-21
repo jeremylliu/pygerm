@@ -1,0 +1,12 @@
+{
+	"actors": [
+		{
+			"name": "screensaver",
+			"components": {
+				"1": {
+					"type": "ScreenSaver"
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,2 @@
+Oh, the inherited component has had its message customized. Very expressive.
+But I've also added a brand-new component too!

@@ -1,0 +1,129 @@
+{
+	"actors": [
+		{
+			"name": "Safari Leader",
+			"components": {
+				"1": {
+					"type": "MessageOrganizer"
+				}
+			}
+		},
+		{
+			"name": "Animal",
+			"components": {
+				"1": {
+					"type": "OutputMessage",
+					"message": "It's a mysterious animal."
+				}
+			}
+		},
+		{
+			"name": "Animal",
+			"components": {
+				"1": {
+					"type": "OutputMessage",
+					"message": "It's a mysterious animal."
+				}
+			}
+		},
+		{
+			"name": "Animal",
+			"components": {
+				"1": {
+					"type": "OutputMessage",
+					"message": "It's a mysterious animal."
+				}
+			}
+		},
+		{
+			"name": "Animal",
+			"components": {
+				"1": {
+					"type": "OutputMessage",
+					"message": "It's a mysterious animal."
+				}
+			}
+		},
+		{
+			"name": "Animal",
+			"components": {
+				"1": {
+					"type": "OutputMessage",
+					"message": "It's a mysterious animal."
+				}
+			}
+		},
+		{
+			"name": "Animal",
+			"components": {
+				"1": {
+					"type": "OutputMessage",
+					"message": "It's a mysterious animal."
+				}
+			}
+		},
+		{
+			"name": "Animal",
+			"components": {
+				"1": {
+					"type": "OutputMessage",
+					"message": "It's a mysterious animal."
+				}
+			}
+		},
+		{
+			"name": "Animal",
+			"components": {
+				"1": {
+					"type": "OutputMessage",
+					"message": "It's a mysterious animal."
+				}
+			}
+		},
+		{
+			"name": "Animal",
+			"components": {
+				"1": {
+					"type": "OutputMessage",
+					"message": "It's a mysterious animal."
+				}
+			}
+		},
+		{
+			"name": "Animal",
+			"components": {
+				"1": {
+					"type": "OutputMessage",
+					"message": "It's a mysterious animal."
+				}
+			}
+		},
+		{
+			"name": "Animal",
+			"components": {
+				"1": {
+					"type": "OutputMessage",
+					"message": "It's a mysterious animal."
+				}
+			}
+		},
+		{
+			"name": "Animal",
+			"components": {
+				"1": {
+					"type": "OutputMessage",
+					"message": "It's a mysterious animal."
+				}
+			}
+		},
+		{
+			"name": "Animal",
+			"components": {
+				"1": {
+					"type": "OutputMessage",
+					"message": "It's a mysterious animal."
+				}
+			}
+		}
+	]
+}

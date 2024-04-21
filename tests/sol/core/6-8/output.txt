@@ -1,0 +1,11 @@
+[DestroyActor] It is currently frame 0
+[DestroyActor] It is currently frame 1
+[DestroyActor] It is currently frame 2
+[DestroyActor] It is currently frame 3
+[DestroyActor] It is currently frame 4
+[DestroyActor] It is currently frame 5
+[DestroyActor] It is currently frame 6
+[DestroyActor] It is currently frame 7
+[DestroyActor] It is currently frame 8
+[DestroyActor] It is currently frame 9
+[DestroyActor] It is currently frame 10

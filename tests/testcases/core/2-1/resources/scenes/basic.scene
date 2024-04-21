@@ -1,0 +1,16 @@
+{
+	"actors": [
+		{
+			"name": "Austin",
+			"components": {
+				"1": {
+					"type": "MessageOrganizer"
+				},
+				"2": {
+					"type": "OutputMessage",
+					"message": "Mmmmm..."
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"actors": [
+		{
+			"name": "debug_actor_a",
+			"components": {
+				"1": {
+					"type": "DoMath",
+					"a": 1,
+					"b": 1
+				},
+				"2": {
+					"type": "DoMath",
+					"a": 494,
+					"b": 4
+				}
+			}
+		}
+	]
+}

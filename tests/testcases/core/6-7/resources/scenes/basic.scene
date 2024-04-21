@@ -1,0 +1,26 @@
+{
+	"actors": [
+		{
+			"name": "actor1",
+			"components": {
+				"1": {
+					"type": "LogMessage",
+					"message": "Actor1 is alive!"
+				},
+				"2": {
+					"type": "DestroyActor",
+					"actor_name": "actor2"
+				}
+			}
+		},
+		{
+			"name": "actor2",
+			"components": {
+				"1": {
+					"type": "LogMessage",
+					"message": "Actor2 is alive!"
+				}
+			}
+		}
+	]
+}

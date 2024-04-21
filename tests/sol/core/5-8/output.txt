@@ -1,0 +1,324 @@
+The current frame is 0
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 1
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 2
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 3
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 4
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 5
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 6
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 7
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 8
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 9
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 10
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 11
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 12
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 13
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 14
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 15
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 16
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 17
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 18
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 19
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 20
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 21
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 22
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 23
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 24
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 25
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 26
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 27
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 28
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 29
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 30
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 31
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 32
+Input.GetMouseButtonUp(1) : true
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 33
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 34
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 35
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 36
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 37
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 38
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 39
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 40
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 41
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 42
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 43
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 44
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 45
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 46
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 47
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 48
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 49
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 50
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 51
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 52
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 53
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 54
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 55
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 56
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 57
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : true
+Input.GetMouseButtonUp(3) : false
+The current frame is 58
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 59
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 60
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 61
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 62
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 63
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 64
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 65
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 66
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 67
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 68
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 69
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 70
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 71
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 72
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 73
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 74
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 75
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 76
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : true
+The current frame is 77
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 78
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 79
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false
+The current frame is 80
+Input.GetMouseButtonUp(1) : false
+Input.GetMouseButtonUp(2) : false
+Input.GetMouseButtonUp(3) : false

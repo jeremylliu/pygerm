@@ -1,0 +1,14 @@
+OnStart called on frame 0
+The current frame is 0 and my enabled variable = true
+LateUpdate on frame 0
+The current frame is 1 and my enabled variable = true
+LateUpdate on frame 1
+The current frame is 2 and my enabled variable = true
+LateUpdate on frame 2
+The current frame is 3 and my enabled variable = true
+LateUpdate on frame 6
+The current frame is 7 and my enabled variable = true
+LateUpdate on frame 7
+The current frame is 8 and my enabled variable = true
+LateUpdate on frame 8
+The current frame is 9 and my enabled variable = true

@@ -1,0 +1,20 @@
+{
+	"actors": [
+		{
+			"name": "Austin",
+			"components": {
+				"1": {
+					"type": "PrintNameAndID"
+				}
+			}
+		},
+		{
+			"name": "Nikhil",
+			"components": {
+				"1": {
+					"type": "PrintNameAndID"
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,324 @@
+The current frame is 0
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 1
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 2
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 3
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 4
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 5
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 6
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 7
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 8
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 9
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 10
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 11
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 12
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 13
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 14
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 15
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 16
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 17
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 18
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 19
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 20
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 21
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 22
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 23
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 24
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 25
+Input.GetMouseButtonDown(1) : true
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 26
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 27
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 28
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 29
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 30
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 31
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 32
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 33
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 34
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 35
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 36
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 37
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 38
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 39
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 40
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 41
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 42
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 43
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 44
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 45
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 46
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : true
+Input.GetMouseButtonDown(3) : false
+The current frame is 47
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 48
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 49
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 50
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 51
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 52
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 53
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 54
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 55
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 56
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 57
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 58
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 59
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 60
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 61
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 62
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 63
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 64
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 65
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 66
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 67
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 68
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : true
+The current frame is 69
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 70
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 71
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 72
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 73
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 74
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 75
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 76
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 77
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 78
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 79
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false
+The current frame is 80
+Input.GetMouseButtonDown(1) : false
+Input.GetMouseButtonDown(2) : false
+Input.GetMouseButtonDown(3) : false

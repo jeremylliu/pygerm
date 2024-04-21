@@ -1,0 +1,17 @@
+[OnStart frame 0] Actor1 is alive!
+[OnStart frame 0] Actor2 is alive!
+[OnUpdate frame 0] Actor1 is alive!
+[OnUpdate frame 0] Actor2 is alive!
+[OnUpdate frame 1] Actor1 is alive!
+[OnUpdate frame 1] Actor2 is alive!
+[OnUpdate frame 2] Actor1 is alive!
+[OnUpdate frame 2] Actor2 is alive!
+[OnUpdate frame 3] Actor1 is alive!
+[OnUpdate frame 3] Actor2 is alive!
+[OnUpdate frame 4] Actor1 is alive!
+[OnUpdate frame 5] Actor1 is alive!
+[OnUpdate frame 6] Actor1 is alive!
+[OnUpdate frame 7] Actor1 is alive!
+[OnUpdate frame 8] Actor1 is alive!
+[OnUpdate frame 9] Actor1 is alive!
+[OnUpdate frame 10] Actor1 is alive!

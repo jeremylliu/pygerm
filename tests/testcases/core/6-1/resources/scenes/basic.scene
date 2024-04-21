@@ -1,0 +1,15 @@
+{
+	"actors": [
+		{
+			"name": "LifecycleTestingActor",
+			"components": {
+				"2": {
+					"type": "LifecycleTester"				
+				},
+				"1": {
+					"type": "Manipulator"
+				}
+			}
+		}
+	]
+}

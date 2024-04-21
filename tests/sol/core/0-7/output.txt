@@ -1,0 +1,4 @@
+Hi! I'm a component, and my key is [1]
+Hi! I'm a component, and my key is [2]
+Hi! I'm a component, and my key is [specialkey]
+Hi! I'm a component, and my key is [uniquekey]

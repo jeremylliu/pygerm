@@ -1,0 +1,13 @@
+{
+    "name": "enemy",
+    "components": {
+        "inherited_intro_message": {
+            "type":"OutputMessage",
+            "message":"You wish to fight?"
+        },
+        "inherited_outro_message": {
+            "type":"OutputMessage",
+            "message":"Ok then. You win."
+        }
+    }
+}

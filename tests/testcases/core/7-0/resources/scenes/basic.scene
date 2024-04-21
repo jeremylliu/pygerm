@@ -1,0 +1,19 @@
+{
+	"actors": [
+		{
+			"name": "actor1",
+			"components": {
+				"1": {
+					"type": "Transform"
+				},
+				"2": {
+					"type" : "ScreenSaverMovement"
+				},
+				"3": {
+					"type": "DrawText",
+					"message": "Hello Lua!"
+				}
+			}
+		}
+	]
+}

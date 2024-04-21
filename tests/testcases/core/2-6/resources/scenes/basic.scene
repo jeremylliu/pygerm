@@ -1,0 +1,12 @@
+{
+	"actors": [
+		{
+			"name": "TesterActor",
+			"components": {
+				"1": {
+					"type": "Tester"
+				}
+			}
+		}
+	]
+}

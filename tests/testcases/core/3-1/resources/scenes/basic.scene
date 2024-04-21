@@ -1,0 +1,22 @@
+{
+	"actors": [
+		{
+			"name": "Cat",
+			"components": {
+				"1": {
+					"type": "ChatterboxLate",
+					"message": "Meow!"
+				}
+			}
+		},
+		{
+			"name": "Dog",
+			"components": {
+				"1": {
+					"type": "Chatterbox",
+					"message": "Woof!"
+				}
+			}
+		}
+	]
+}

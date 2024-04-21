@@ -1,0 +1,29 @@
+{
+	"actors": [
+		{
+			"name": "debug_actor_a",
+			"components": {
+				"1": {
+					"type": "DoMath",
+					"a": 1.4,
+					"b": 1.7
+				},
+				"2": {
+					"type": "DoMath",
+					"a": 498.007,
+					"b": 498.003
+				}
+			}
+		},
+		{
+			"name": "debug_actor_b",
+			"components": {
+				"3": {
+					"type": "DoMath",
+					"a": 4.94,
+					"b": 4.40
+				}
+			}
+		}
+	]
+}

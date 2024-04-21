@@ -1,0 +1,26 @@
+{
+	"actors": [
+		{
+			"name": "debug_actor",
+			"components": {
+				"1": {
+					"type": "PrintKey"
+				},
+				"2": {
+					"type": "PrintKey"
+				}
+			}
+		},
+		{
+			"name": "debug_actor",
+			"components": {
+				"specialkey": {
+					"type": "PrintKey"
+				},
+				"uniquekey": {
+					"type": "PrintKey"
+				}
+			}
+		}
+	]
+}

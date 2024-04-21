@@ -1,0 +1,33 @@
+[DestroyThenCheck] It is currently frame 0
+[DestroyThenCheck] Checking on actor2 : 
+actor2
+[DestroyThenCheck] It is currently frame 1
+[DestroyThenCheck] Checking on actor2 : 
+actor2
+[DestroyThenCheck] It is currently frame 2
+[DestroyThenCheck] Checking on actor2 : 
+[31mactor1 : resources/component_types/DestroyThenCheck.lua:12: attempt to index a nil value (local 'actor2')[0m
+[DestroyThenCheck] It is currently frame 3
+[DestroyThenCheck] Checking on actor2 : 
+[31mactor1 : resources/component_types/DestroyThenCheck.lua:12: attempt to index a nil value (local 'actor2')[0m
+[DestroyThenCheck] It is currently frame 4
+[DestroyThenCheck] Checking on actor2 : 
+[31mactor1 : resources/component_types/DestroyThenCheck.lua:12: attempt to index a nil value (local 'actor2')[0m
+[DestroyThenCheck] It is currently frame 5
+[DestroyThenCheck] Checking on actor2 : 
+[31mactor1 : resources/component_types/DestroyThenCheck.lua:12: attempt to index a nil value (local 'actor2')[0m
+[DestroyThenCheck] It is currently frame 6
+[DestroyThenCheck] Checking on actor2 : 
+[31mactor1 : resources/component_types/DestroyThenCheck.lua:12: attempt to index a nil value (local 'actor2')[0m
+[DestroyThenCheck] It is currently frame 7
+[DestroyThenCheck] Checking on actor2 : 
+[31mactor1 : resources/component_types/DestroyThenCheck.lua:12: attempt to index a nil value (local 'actor2')[0m
+[DestroyThenCheck] It is currently frame 8
+[DestroyThenCheck] Checking on actor2 : 
+[31mactor1 : resources/component_types/DestroyThenCheck.lua:12: attempt to index a nil value (local 'actor2')[0m
+[DestroyThenCheck] It is currently frame 9
+[DestroyThenCheck] Checking on actor2 : 
+[31mactor1 : resources/component_types/DestroyThenCheck.lua:12: attempt to index a nil value (local 'actor2')[0m
+[DestroyThenCheck] It is currently frame 10
+[DestroyThenCheck] Checking on actor2 : 
+[31mactor1 : resources/component_types/DestroyThenCheck.lua:12: attempt to index a nil value (local 'actor2')[0m

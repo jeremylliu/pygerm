@@ -1,0 +1,36 @@
+{
+	"actors": [
+		{
+			"name": "hud",
+			"components": {
+				"1": {
+					"type": "Hud"
+				}
+			}
+		},
+		{
+			"name": "background",
+			"components": {
+				"1": {
+					"type": "Transform"
+				},
+				"2": {
+					"type": "SpriteRenderer",
+					"image": "background"
+				}
+			}
+		},
+		{
+			"name": "Donna",
+			"components": {
+				"1": {
+					"type": "Transform"
+				},
+				"2": {
+					"type": "SpriteRenderer",
+					"image": "donna1"
+				}
+			}
+		}
+	]
+}

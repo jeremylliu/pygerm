@@ -1,0 +1,26 @@
+[Manipulator] Game Tick 0
+[Manipulator] Game Tick 1
+[Manipulator] Game Tick 2
+[Manipulator] Adding enemy component and adjusting its hp...
+[Enemy] Enemy booting on frame 3 with hp 100 and key r0
+[Manipulator] Game Tick 3
+[Enemy] Enemy Update on frame 3 with hp 100 and key r0
+[Enemy] Enemy LateUpdate on frame 3 with hp 100 and key r0
+[Manipulator] Game Tick 4
+[Enemy] Enemy Update on frame 4 with hp 100 and key r0
+[Enemy] Enemy LateUpdate on frame 4 with hp 100 and key r0
+[Manipulator] Game Tick 5
+[Manipulator] Removing enemy component...
+100
+[31mComponentAddingActor : resources/component_types/Manipulator.lua:19: attempt to index a nil value (global 'enemy_component')[0m
+[Manipulator] Game Tick 6
+[Manipulator] Game Tick 7
+[Manipulator] Game Tick 8
+[31mComponentAddingActor : resources/component_types/Manipulator.lua:24: attempt to index a nil value (global 'enemy_component')[0m
+[Manipulator] Game Tick 9
+[Manipulator] Game Tick 10
+[Manipulator] Game Tick 11
+[Manipulator] Game Tick 12
+[Manipulator] Game Tick 13
+[Manipulator] Game Tick 14
+[Manipulator] Game Tick 15

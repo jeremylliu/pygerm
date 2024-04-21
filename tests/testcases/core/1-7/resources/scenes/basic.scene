@@ -1,0 +1,32 @@
+{
+	"actors": [
+		{
+			"name": "enemy_wise",
+			"template": "enemy",
+			"components": {
+				"inherited_intro_message": {
+					"message": "Mmm. A challenger approaches?"
+				},
+				"inherited_outro_message": {
+					"message": "Your powers are most impressive. I yield."
+				}
+			}
+		},
+		{
+			"name": "enemy_arrogant",
+			"template": "enemy",
+			"components": {
+				"inherited_intro_message": {
+					"message": "Oh, yeah right! You'll never make it past me!"
+				},
+				"inherited_outro_message": {
+					"message": "Whaaaaat?? No way! You must have cheated!"
+				}
+			}
+		},
+		{
+			"name": "enemy_default",
+			"template": "enemy"
+		}
+	]
+}

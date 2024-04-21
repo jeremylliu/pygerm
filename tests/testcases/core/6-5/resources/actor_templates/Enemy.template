@@ -1,0 +1,9 @@
+{
+	"name": "Enemy",
+	"components": {
+		"1": {
+			"type": "Enemy",
+			"hp": 12
+		}
+	}
+}

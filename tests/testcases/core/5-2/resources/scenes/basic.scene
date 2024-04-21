@@ -1,0 +1,12 @@
+{
+	"actors": [
+		{
+			"name": "KeyCheckerActor",
+			"components": {
+				"1": {
+					"type": "KeyChecker"				
+				}
+			}
+		}
+	]
+}

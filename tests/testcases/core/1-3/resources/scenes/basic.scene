@@ -1,0 +1,22 @@
+{
+	"actors": [
+		{
+			"name": "debug_actor_a",
+			"components": {
+				"0": {
+					"type": "PerformAnd"
+				},
+				"1": {
+					"type": "PerformAnd",
+					"a": true,
+					"b": false
+				},
+				"2": {
+					"type": "PerformAnd",
+					"a": true,
+					"b": true
+				}
+			}
+		}
+	]
+}

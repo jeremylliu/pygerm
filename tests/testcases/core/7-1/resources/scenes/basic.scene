@@ -1,0 +1,21 @@
+{
+	"actors": [
+		{
+			"name": "actor1",
+			"components": {
+				"1": {
+					"type": "Transform",
+					"x": 140,
+					"y": 150
+				},
+				"2": {
+					"type" : "FlickerText"
+				},
+				"3": {
+					"type": "DrawText",
+					"message": "WARNING : NO REFUGE"
+				}
+			}
+		}
+	]
+}
