@@ -137,7 +137,7 @@ setup(
     zip_safe=False,
     extras_require={"test": ["pytest>=6.0"]},
     python_requires=">=3.7",
-    install_requires=[
-        'cmake',  # Add CMake as a dependency
-    ],
+    # setup_requires=[
+    #     'pysdl2-dll',
+    # ],
 )
