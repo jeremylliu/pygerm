@@ -41,6 +41,38 @@ Keep in mind, Python 3.7 or higher is required to use PyGerm.
 The full documentation for PyGerm can be found [here](https://www.pygerm.jeremylliu.com/docs/install).
 
 ## Examples
+Getting Started
+```python
+import pygerm
+
+game = pygerm.Game()
+
+game.game_config = pygerm.GameConfig(game_title="Your Game Title")
+game.rendering_config = pygerm.RenderingConfig(x_resolution=400, y_resolution=400)
+
+game.run()
+```
+
+Building your own components
+```python
+import pygerm
+
+class OutputMessage(pygerm.Component):
+    message = "???"
+    def onStart(self):
+        print(self.message) # will print "Hello, World!"
+
+class ModifyOutputMessage(pygerm.Component):
+    def onStart(self):
+        actor = self.actor
+        output_message = actor.getComponent(OutputMessage)
+        output_message.message = "Hello, World!"
+
+actor = pygerm.Actor("actor1", {"1": ModifyOutputMessage(), "2": OutputMessage()})
+scene = pygerm.Scene("scene1", [actor])
+game = pygerm.Game(scene=scene)
+game.run()
+```
 
 ## Building from Source
 If you are interested in modifying or building this library from source, you can clone the repository and build it using the following steps:
