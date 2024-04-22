@@ -34,7 +34,8 @@ jobs:
         if: startsWith(matrix.os, 'ubuntu')
         run: |
           sudo apt-get update
-          sudo apt-get install -y libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev
+          sudo apt-get install -y libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev 
+          cmake -DCMAKE_PREFIX_PATH=/usr/include/SDL2
 
       - name: Install SDL2
         if: startsWith(matrix.os, 'macos')
