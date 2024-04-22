@@ -1,15 +1,16 @@
 cmake_minimum_required(VERSION 3.16)
 project(pygerm)
 set(CMAKE_CXX_STANDARD 17)
-set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -O3")
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -O3")
+set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -O3 -fPIC")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -O3 -fPIC")
 
 include_directories(inc inc/components inc/configs inc/scripting src src/components src/configs src/scripting extern)
 
 # add pybind
-find_package(Python COMPONENTS Interpreter Development REQUIRED)
+#find_package(Python COMPONENTS Interpreter Development REQUIRED)
 add_subdirectory(extern/pybind11)
 include_directories(extern/pybind11/include)
+include_directories(${PYTHON_INCLUDE_DIRS})
 
 # add lua dependencies
 file(GLOB LUA_SOURCE_FILES
@@ -35,12 +36,8 @@ find_package(SDL2 REQUIRED COMPONENTS SDL2)
 find_package(SDL2_image REQUIRED)
 find_package(SDL2_mixer REQUIRED)
 find_package(SDL2_ttf REQUIRED)
-if(APPLE)
-    link_libraries(SDL2::SDL2 SDL2_image::SDL2_image SDL2_ttf::SDL2_ttf SDL2_mixer::SDL2_mixer)
-    link_libraries(lua box2d Python::Python)
-else()
-    link_libraries(SDL2 SDL2_image SDL2_ttf SDL2_mixer lua box2d Python)
-endif()
+include_directories(${SDL2_INCLUDE_DIRS} ${SDL2_IMAGE_INCLUDE_DIRS} ${SDL2_MIXER_INCLUDE_DIRS} ${SDL2_TTF_INCLUDE_DIRS})
+link_libraries(${SDL2_LIBRARIES} ${SDL2_IMAGE_LIBRARIES} ${SDL2_MIXER_LIBRARIES} ${SDL2_TTF_LIBRARIES} lua box2d)
 
 # link all files
 file(GLOB SOURCES "src/*.cpp" "src/components/*.cpp" "src/configs/*.cpp" "src/scripting/*.cpp")
