@@ -80,6 +80,7 @@ std::string Scene::to_string() {
 //}
 
 void Scene::load(Scene scene) {
+    scene_name = scene.name;
     next_scene = std::make_shared<Scene>(scene);
 }
 
@@ -119,6 +120,7 @@ std::string Scene::get_current_scene() {
 }
 
 void Scene::dont_destroy_actor(Actor *actor_ptr) {
+    // TODO this is a bug since if you call don't destory multiple times, it will duplicate
     for (auto &actor : actors) {
         if (actor.get() == actor_ptr) {
             persistent_actors.push_back(actor);
@@ -165,7 +167,7 @@ std::shared_ptr<Actor> Scene::add_actor(py::object actor) {
 
     auto scene_actor = actor.cast<Actor>();
     auto actor_ptr = std::make_shared<Actor>(std::move(scene_actor));
-    actors.push_back(actor_ptr);
+    actors_to_add.push_back(actor_ptr);
     actor_cache[actors.back()->get_name()].push_back(actors.back());
     return actor_ptr;
 }

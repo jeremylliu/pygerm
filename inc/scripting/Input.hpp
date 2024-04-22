@@ -36,7 +36,7 @@ public:
     static bool get_key(const std::string &key);
     static bool get_key_down(const std::string &key);
     static bool get_key_up(const std::string &key);
-    static luabridge::LuaRef get_mouse_position();
+    static b2Vec2 get_mouse_position();
     static bool get_mouse_button(int button_num);
     static bool get_mouse_button_down(int button_num);
     static bool get_mouse_button_up(int button_num);

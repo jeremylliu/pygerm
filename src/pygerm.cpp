@@ -73,11 +73,11 @@ PYBIND11_MODULE(pygerm, m) {
             .def(py::init<py::kwargs>(), "Actor Constructor that takes kwargs for actor_name and components")
             .def("getName", &Actor::get_name, "Returns the name of the actor")
             .def("getID", &Actor::get_id, "Returns the id of the actor")
-            .def("getComponentByKey", &Actor::get_component_by_key, "Returns the component with the given key")
-            .def("getComponent", &Actor::get_component, "Returns the component with the given type")
-            .def("getComponents", &Actor::get_components, "Returns a tuple of components with the given type")
-            .def("addComponent", &Actor::add_component, "Adds the given component to the actor")
-            .def("removeComponent", &Actor::remove_component, "Removes the given component from the actor")
+            .def("getComponentByKey", &Actor::get_component_by_key, "Returns the component with the given key", py::arg("key"))
+            .def("getComponent", &Actor::get_component, "Returns the component with the given type", py::arg("type"))
+            .def("getComponents", &Actor::get_components, "Returns a tuple of components with the given type", py::arg("type"))
+            .def("addComponent", &Actor::add_component, "Adds the given component to the actor", py::arg("component"))
+            .def("removeComponent", &Actor::remove_component, "Removes the given component from the actor", py::arg("component"))
             .def_static("create", &Scene::add_actor, "Creates an actor with the given name and components")
             .def_static("destroy", &Scene::destroy_actor, "Destroys the actor with the given name")
             .def_static("find", &Scene::find_actor, "Returns the actor with the given name")
@@ -106,6 +106,15 @@ PYBIND11_MODULE(pygerm, m) {
                         return c;
                     }
             ));
+
+    py::class_<b2Vec2>(m, "Vec2")
+            .def(py::init<>(), "Default Vec2 Constructor")
+            .def(py::init<float, float>(), "Vec2 Constructor that takes in x and y values", py::arg("x")=0.0, py::arg("y")=0.0)
+            .def("__str__", [](const b2Vec2 &v) {
+                return "Vec2(" + std::to_string(v.x) + ", " + std::to_string(v.y) + ")";
+            }, "Returns a string representation of the Vec2")
+            .def_readwrite("x", &b2Vec2::x, "The x value of Vec2")
+            .def_readwrite("y", &b2Vec2::y, "The y value of Vec2");
 
     py::module application = m.def_submodule("Application", "The Application submodule of pygerm");
     application.def("quit", &Application::quit, "Quits the application")

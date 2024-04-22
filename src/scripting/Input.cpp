@@ -95,8 +95,8 @@ bool Input::get_key_down(const std::string &key) {
     return keyboard_states.at(code) == INPUT_STATE_JUST_BECAME_DOWN;
 }
 
-luabridge::LuaRef Input::get_mouse_position() {
-    return luabridge::LuaRef(ComponentEngine::lua_state, mouse_position);
+b2Vec2 Input::get_mouse_position() {
+    return b2Vec2(mouse_position.x, mouse_position.y);
 }
 
 bool Input::get_mouse_button(int button_num) {
