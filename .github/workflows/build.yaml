@@ -35,7 +35,6 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev 
-          echo $LD_LIBRARY_PATH
 
       - name: Install SDL2
         if: startsWith(matrix.os, 'macos')
