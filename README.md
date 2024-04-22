@@ -7,12 +7,24 @@ To get started, check out the [installation](#installation) instructions below, 
 PyGerm is the first Python-based game engine that delivers a true component-based architecture. This means that logic that you write once can always be reused, no matter where it needs to go. Coupled with powerful integrated functions to handle entity management, physics, and rendering, PyGerm is the perfect choice for developers who want to focus on building their game, not the engine.  
 
 ## Installation
-1. Install the PyGerm library using pip:
+1. Install the required dependencies.
+
+If you are using MacOS:
+```bash
+$ brew install cmake sdl2 sdl2_image sdl2_ttf sdl2_mixer
+```
+
+Linux / WSL
+```bash
+$ sudo apt-get install cmake libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev libsdl2-mixer-dev
+```
+   
+2. Install the PyGerm library using pip:
 ```bash
 $ pip install pygerm
 ```
 
-2. Import the library in your Python code and get started!
+3. Import the library in your Python code and get started!
 ```python
 import pygerm
 
@@ -29,6 +41,38 @@ Keep in mind, Python 3.7 or higher is required to use PyGerm.
 The full documentation for PyGerm can be found [here](https://www.pygerm.jeremylliu.com/docs/install).
 
 ## Examples
+Getting Started
+```python
+import pygerm
+
+game = pygerm.Game()
+
+game.game_config = pygerm.GameConfig(game_title="Your Game Title")
+game.rendering_config = pygerm.RenderingConfig(x_resolution=400, y_resolution=400)
+
+game.run()
+```
+
+Building your own components
+```python
+import pygerm
+
+class OutputMessage(pygerm.Component):
+    message = "???"
+    def onStart(self):
+        print(self.message) # will print "Hello, World!"
+
+class ModifyOutputMessage(pygerm.Component):
+    def onStart(self):
+        actor = self.actor
+        output_message = actor.getComponent(OutputMessage)
+        output_message.message = "Hello, World!"
+
+actor = pygerm.Actor("actor1", {"1": ModifyOutputMessage(), "2": OutputMessage()})
+scene = pygerm.Scene("scene1", [actor])
+game = pygerm.Game(scene=scene)
+game.run()
+```
 
 ## Building from Source
 If you are interested in modifying or building this library from source, you can clone the repository and build it using the following steps:
