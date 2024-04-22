@@ -7,12 +7,24 @@ To get started, check out the [installation](#installation) instructions below, 
 PyGerm is the first Python-based game engine that delivers a true component-based architecture. This means that logic that you write once can always be reused, no matter where it needs to go. Coupled with powerful integrated functions to handle entity management, physics, and rendering, PyGerm is the perfect choice for developers who want to focus on building their game, not the engine.  
 
 ## Installation
-1. Install the PyGerm library using pip:
+1. Install the required dependencies.
+
+If you are using MacOS:
+```bash
+$ brew install cmake sdl2 sdl2_image sdl2_ttf sdl2_mixer
+```
+
+Linux / WSL
+```bash
+$ sudo apt-get install cmake libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev libsdl2-mixer-dev
+```
+   
+2. Install the PyGerm library using pip:
 ```bash
 $ pip install pygerm
 ```
 
-2. Import the library in your Python code and get started!
+3. Import the library in your Python code and get started!
 ```python
 import pygerm
 
