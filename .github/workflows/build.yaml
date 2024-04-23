@@ -40,16 +40,8 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev
-          export SDL2_INCLUDE_DIR=/usr/include/SDL2
-          export SDL2_LIBRARY_DIR=/usr/lib/x86_64-linux-gnu
-          export SDL2_IMAGE_INCLUDE_DIR=/usr/include/SDL2
-          export SDL2_IMAGE_LIBRARY_DIR=/usr/lib/x86_64-linux-gnu
-          export SDL2_MIXER_INCLUDE_DIR=/usr/include/SDL2
-          export SDL2_MIXER_LIBRARY_DIR=/usr/lib/x86_64-linux-gnu
-          export SDL2_TTF_INCLUDE_DIR=/usr/include/SDL2
-          export SDL2_TTF_LIBRARY_DIR=/usr/lib/x86_64-linux-gnu
-          export CMAKE_PREFIX_PATH="$CMAKE_PREFIX_PATH:/usr/lib/x86_64-linux-gnu"
-          export SDL2_IMAGE_DIR=/usr/lib/x86_64-linux-gnu/cmake/SDL2_image
+          echo "CMAKE_PREFIX_PATH=$CMAKE_PREFIX_PATH:/usr/lib/x86_64-linux-gnu" >> $GITHUB_ENV
+          echo "SDL2_IMAGE_DIR=/usr/lib/x86_64-linux-gnu/cmake/SDL2_image" >> $GITHUB_ENV
 
       - name: Install SDL2
         if: startsWith(matrix.os, 'macos')
