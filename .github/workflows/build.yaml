@@ -40,10 +40,14 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev
-          echo "SDL Path: $SDL_PATH"
-          echo "SDL Image Path: $SDL_IMAGE_PATH"
-          echo "SDL Mixer Path: $SDL_MIXER_PATH"
-          echo "SDL TTF Path: $SDL_TTF_PATH"
+          export SDL2_INCLUDE_DIR=/usr/include/SDL2
+          export SDL2_LIBRARY_DIR=/usr/lib/x86_64-linux-gnu
+          export SDL2_IMAGE_INCLUDE_DIR=/usr/include/SDL2
+          export SDL2_IMAGE_LIBRARY_DIR=/usr/lib/x86_64-linux-gnu
+          export SDL2_MIXER_INCLUDE_DIR=/usr/include/SDL2
+          export SDL2_MIXER_LIBRARY_DIR=/usr/lib/x86_64-linux-gnu
+          export SDL2_TTF_INCLUDE_DIR=/usr/include/SDL2
+          export SDL2_TTF_LIBRARY_DIR=/usr/lib/x86_64-linux-gnu
 
       - name: Install SDL2
         if: startsWith(matrix.os, 'macos')
