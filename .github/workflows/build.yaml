@@ -49,7 +49,7 @@ jobs:
           export SDL2_TTF_INCLUDE_DIR=/usr/include/SDL2
           export SDL2_TTF_LIBRARY_DIR=/usr/lib/x86_64-linux-gnu
           export CMAKE_PREFIX_PATH="$CMAKE_PREFIX_PATH:/usr/lib/x86_64-linux-gnu"
-
+          export SDL2_IMAGE_DIR=/usr/lib/x86_64-linux-gnu/cmake/SDL2_image
 
       - name: Install SDL2
         if: startsWith(matrix.os, 'macos')
